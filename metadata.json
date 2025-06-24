@@ -1,0 +1,6 @@
+{
+  "name": "サインスタイル診断 ",
+  "description": "いくつかの質問に答えるだけで、あなたの好みのサインタイプを診断するアプリケーションです。",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
